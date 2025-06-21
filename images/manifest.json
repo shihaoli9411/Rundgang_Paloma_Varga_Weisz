@@ -7,5 +7,249 @@
             "All images loaded in shihaoli9411/Rundgang_Paloma_Varga_Weisz project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5005/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "IMG_5005"
+                ]
+            },
+            "height": 4032,
+            "width": 3024,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5005/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5005/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5005/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 95,
+                                                "height": 126
+                                            },
+                                            {
+                                                "width": 189,
+                                                "height": 252
+                                            },
+                                            {
+                                                "width": 378,
+                                                "height": 504
+                                            },
+                                            {
+                                                "width": 756,
+                                                "height": 1008
+                                            },
+                                            {
+                                                "width": 1512,
+                                                "height": 2016
+                                            },
+                                            {
+                                                "width": 3024,
+                                                "height": 4032
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3024,
+                                        "@id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5005",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4032,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5005/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5004/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "IMG_5004"
+                ]
+            },
+            "height": 4032,
+            "width": 3024,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5004/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5004/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5004/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 95,
+                                                "height": 126
+                                            },
+                                            {
+                                                "width": 189,
+                                                "height": 252
+                                            },
+                                            {
+                                                "width": 378,
+                                                "height": 504
+                                            },
+                                            {
+                                                "width": 756,
+                                                "height": 1008
+                                            },
+                                            {
+                                                "width": 1512,
+                                                "height": 2016
+                                            },
+                                            {
+                                                "width": 3024,
+                                                "height": 4032
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3024,
+                                        "@id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5004",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4032,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/IMG_5004/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/_V5E4819/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "_V5E4819"
+                ]
+            },
+            "height": 760,
+            "width": 1024,
+            "items": [
+                {
+                    "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/_V5E4819/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/_V5E4819/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/_V5E4819/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 32,
+                                                "height": 24
+                                            },
+                                            {
+                                                "width": 64,
+                                                "height": 48
+                                            },
+                                            {
+                                                "width": 128,
+                                                "height": 95
+                                            },
+                                            {
+                                                "width": 256,
+                                                "height": 190
+                                            },
+                                            {
+                                                "width": 512,
+                                                "height": 380
+                                            },
+                                            {
+                                                "width": 1024,
+                                                "height": 760
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1024,
+                                        "@id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/_V5E4819",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 760,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/_V5E4819/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
