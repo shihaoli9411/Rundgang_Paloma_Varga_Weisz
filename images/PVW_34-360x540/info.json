@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 12,
+    "height" : 17
+  }, {
+    "width" : 23,
+    "height" : 34
+  }, {
+    "width" : 45,
+    "height" : 68
+  }, {
+    "width" : 90,
+    "height" : 135
+  }, {
+    "width" : 180,
+    "height" : 270
+  }, {
+    "width" : 360,
+    "height" : 540
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 360,
+  "@id" : "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/PVW_34-360x540",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 540
+}
