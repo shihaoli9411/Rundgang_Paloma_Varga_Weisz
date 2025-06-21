@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://shihaoli9411.github.io/Rundgang_Paloma_Varga_Weisz/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in shihaoli9411/Rundgang_Paloma_Varga_Weisz project"
+        ]
+    },
+    "items": []
+}
